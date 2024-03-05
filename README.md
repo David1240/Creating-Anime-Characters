@@ -9,14 +9,8 @@ This Guided Project is made with collabotory. Click here to see the [collabotory
 Name: David Hamonangan Sirait<br>
 Program: IBM Advance AI<br>
 Personal Mentor: Siska Anggraeni<br>
-Author: [Rohit Arora](https://www.linkedin.com/in/arora-r/) & [Talha Siddiqui](https://www.linkedin.com/in/talha01siddiqui/)
+
 
 # Tech
 
-- HTML
-- CSS
-- Flask
-- Python
-- Javascript
-- Docker
-- Visual Studio Code
+- Google Colab
